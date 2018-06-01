@@ -1,0 +1,5 @@
+***Condiciones de trabajo***
+
+*El trabajo realizado y aceptado por el cliente, no es reembolsable en el caso de un cambio en los requerimientos.
+*Los requerimientos debes ser leídos y analizados detalladamente por el cliente, para no tener futuros cambios, que entre mas etapas avanzadas mayor es el coste de la implementacion del nuevo requerimiento.
+*Las tecnologia de licencia privativa que escoja el cliente, deben ser pagadas por el mismo cliente (a excepción de Microsoft office).
